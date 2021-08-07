@@ -1,0 +1,1 @@
+tensorboard --logdir="d:\PELUSO\ITSligo\lectures_MENG\3-ML\assignment 2\logs\a20210731-231413"
